@@ -1,0 +1,15 @@
+C:\Users\abchakravarthy\abhirukth-chakravarthy\DevOps\DevOps\DevOps\bin\Debug\net6.0\DevOps.exe
+C:\Users\abchakravarthy\abhirukth-chakravarthy\DevOps\DevOps\DevOps\bin\Debug\net6.0\DevOps.deps.json
+C:\Users\abchakravarthy\abhirukth-chakravarthy\DevOps\DevOps\DevOps\bin\Debug\net6.0\DevOps.runtimeconfig.json
+C:\Users\abchakravarthy\abhirukth-chakravarthy\DevOps\DevOps\DevOps\bin\Debug\net6.0\DevOps.dll
+C:\Users\abchakravarthy\abhirukth-chakravarthy\DevOps\DevOps\DevOps\bin\Debug\net6.0\DevOps.pdb
+C:\Users\abchakravarthy\abhirukth-chakravarthy\DevOps\DevOps\DevOps\obj\Debug\net6.0\DevOps.csproj.AssemblyReference.cache
+C:\Users\abchakravarthy\abhirukth-chakravarthy\DevOps\DevOps\DevOps\obj\Debug\net6.0\DevOps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abchakravarthy\abhirukth-chakravarthy\DevOps\DevOps\DevOps\obj\Debug\net6.0\DevOps.AssemblyInfoInputs.cache
+C:\Users\abchakravarthy\abhirukth-chakravarthy\DevOps\DevOps\DevOps\obj\Debug\net6.0\DevOps.AssemblyInfo.cs
+C:\Users\abchakravarthy\abhirukth-chakravarthy\DevOps\DevOps\DevOps\obj\Debug\net6.0\DevOps.csproj.CoreCompileInputs.cache
+C:\Users\abchakravarthy\abhirukth-chakravarthy\DevOps\DevOps\DevOps\obj\Debug\net6.0\DevOps.dll
+C:\Users\abchakravarthy\abhirukth-chakravarthy\DevOps\DevOps\DevOps\obj\Debug\net6.0\refint\DevOps.dll
+C:\Users\abchakravarthy\abhirukth-chakravarthy\DevOps\DevOps\DevOps\obj\Debug\net6.0\DevOps.pdb
+C:\Users\abchakravarthy\abhirukth-chakravarthy\DevOps\DevOps\DevOps\obj\Debug\net6.0\DevOps.genruntimeconfig.cache
+C:\Users\abchakravarthy\abhirukth-chakravarthy\DevOps\DevOps\DevOps\obj\Debug\net6.0\ref\DevOps.dll
