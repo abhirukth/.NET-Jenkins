@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DOTNET_CLI_HOME = "C:\\Users\\abchakravarthy\\.dotnet\tools"
+        DOTNET_CLI_HOME = "C:\\Users\\abchakravarthy\\.dotnet\\tools"
     }
 
     stages {
