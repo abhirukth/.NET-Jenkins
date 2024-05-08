@@ -34,19 +34,19 @@ pipeline {
             }
         }
 
-        // stage('Publish') {
-        //     steps {
-        //         script {
-        //             // Publishing the application
-        //             bat "dotnet publish --no-restore --configuration Release --output .\\publish"
-        //         }
-        //     }
-        // }
+        stage('Publish') {
+            steps {
+                script {
+                    // Publishing the application
+                    bat "dotnet publish --no-restore --configuration Release --output .\\publish"
+                }
+            }
+        }
     }
 
     post {
         success {
-            echo 'Build, test successful!'
+            echo 'Build, test, and publish successful!'
         }
     }
 }
